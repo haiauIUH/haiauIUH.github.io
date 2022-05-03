@@ -1,2 +1,3 @@
 # haiauIUH.github.io
-#The Band website on Pc, mobile and tablet
+1. The Band website 
+2. The website has responesive design on Pc, mobile and tablet
